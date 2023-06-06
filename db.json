@@ -1,3 +1,36 @@
 {
-  "users": []
+  "users": [
+    {
+      "fullName": "Narender Chepuri",
+      "email": "narender@gmail.com",
+      "password": "qwerty",
+      "id": 1
+    }
+  ],
+  "tracker": [
+    {
+      "type": "Income",
+      "category": "Salary",
+      "amount": "1200000",
+      "date": "2023-06-17",
+      "userId": 1,
+      "id": 1
+    },
+    {
+      "type": "Income",
+      "category": "Bills",
+      "amount": "1200",
+      "date": "2023-06-17",
+      "userId": 1,
+      "id": 2
+    },
+    {
+      "type": "Income",
+      "category": "Refunds",
+      "amount": "1200",
+      "date": "2023-06-17",
+      "userId": 1,
+      "id": 3
+    }
+  ]
 }
